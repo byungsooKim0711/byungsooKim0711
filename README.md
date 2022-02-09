@@ -25,7 +25,7 @@
 
 ### 📬 Contacts
 
-- EMAIL - vlakd0711@naver.com
+- EMAIL - kimbyungsoo0711@gmail.com
 - PHONE - 
 
 <!--
