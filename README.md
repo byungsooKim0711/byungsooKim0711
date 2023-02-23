@@ -6,7 +6,7 @@
 | --------------- | ----------------- | ------------------------------------ | ------------- |
 | **🎓 Education** | 2013.03 ~ 2019.02 | Department of Computer Engineering   | Hansung Univ. |
 | **Employment**  | 2018.07 ~ 2019.10 | Web Backend dev, RPA                 | SPID          |
-| **Employment**  | 2019.10 ~         | SW Engineer, Messaging, IMC dev team | Humuson       |
+| **Employment**  | 2019.10 ~ 2023.02.15 | SW Engineer, Messaging, IMC dev team | Humuson       |
 
 
 ### 🌟What i am interested in
